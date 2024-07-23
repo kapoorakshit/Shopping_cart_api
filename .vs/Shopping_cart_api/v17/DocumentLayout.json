@@ -1,0 +1,598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\data\\emailtemplate\\testemail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:data\\emailtemplate\\testemail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\migrations\\20231208072955_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:migrations\\20231208072955_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\models_product\u002Badmin\\useremail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:models_product\u002Badmin\\useremail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\data\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:data\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\models_product\u002Badmin\\usersignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:models_product\u002Badmin\\usersignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\models_product\u002Badmin\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:models_product\u002Badmin\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\models_product\u002Badmin\\smtpconfigmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:models_product\u002Badmin\\smtpconfigmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\models_product\u002Badmin\\productinputmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:models_product\u002Badmin\\productinputmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\models_product\u002Badmin\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:models_product\u002Badmin\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\models_product\u002Badmin\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:models_product\u002Badmin\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\repository\\mycrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:repository\\mycrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\models_product\u002Badmin\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:models_product\u002Badmin\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\models_product\u002Badmin\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:models_product\u002Badmin\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\seeding\\userseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:seeding\\userseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\seeding\\userroleseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:seeding\\userroleseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\seeding\\roleseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:seeding\\roleseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\data\\interfaces\\imycrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:data\\interfaces\\imycrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\migrations\\20231208072019_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:migrations\\20231208072019_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\migrations\\20231208110146_nine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:migrations\\20231208110146_nine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\migrations\\20231208105303_eight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:migrations\\20231208105303_eight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\migrations\\20231208104300_seven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:migrations\\20231208104300_seven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\migrations\\20231208075919_sixth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:migrations\\20231208075919_sixth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\migrations\\20231208074644_fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:migrations\\20231208074644_fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\migrations\\20231208074508_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:migrations\\20231208074508_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|c:\\users\\akshit.kapoor\\downloads\\email\\email\\shopping_cart_api\\migrations\\20231208072832_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D11FA2-1ECE-41B5-8F66-4EEABAE1BD18}|Shopping_cart_api.csproj|solutionrelative:migrations\\20231208072832_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Email\\EmailService.cs",
+              "RelativeDocumentMoniker": "Email\\EmailService.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Email\\EmailService.cs",
+              "RelativeToolTip": "Email\\EmailService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Email\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Email\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Email\\IEmailService.cs",
+              "RelativeToolTip": "Email\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20231208072955_third.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208072955_third.cs",
+              "RelativeDocumentMoniker": "Migrations\\20231208072955_third.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208072955_third.cs",
+              "RelativeToolTip": "Migrations\\20231208072955_third.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA4wBYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:35.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestEmail.html",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Data\\EmailTemplate\\TestEmail.html",
+              "RelativeDocumentMoniker": "Data\\EmailTemplate\\TestEmail.html",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Data\\EmailTemplate\\TestEmail.html",
+              "RelativeToolTip": "Data\\EmailTemplate\\TestEmail.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-01T16:31:34.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwFgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:30.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Useremail.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\Useremail.cs",
+              "RelativeDocumentMoniker": "Models_product\u002Badmin\\Useremail.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\Useremail.cs",
+              "RelativeToolTip": "Models_product\u002Badmin\\Useremail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:30.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:35.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAQwE0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SMTPConfigModel.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\SMTPConfigModel.cs",
+              "RelativeDocumentMoniker": "Models_product\u002Badmin\\SMTPConfigModel.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\SMTPConfigModel.cs",
+              "RelativeToolTip": "Models_product\u002Badmin\\SMTPConfigModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Data\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Data\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:30.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "Repository\\AccountRepository.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAowFwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-01T16:31:30.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserSignUp.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\UserSignUp.cs",
+              "RelativeDocumentMoniker": "Models_product\u002Badmin\\UserSignUp.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\UserSignUp.cs",
+              "RelativeToolTip": "Models_product\u002Badmin\\UserSignUp.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Userlogin.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\Userlogin.cs",
+              "RelativeDocumentMoniker": "Models_product\u002Badmin\\Userlogin.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\Userlogin.cs",
+              "RelativeToolTip": "Models_product\u002Badmin\\Userlogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductInputModal.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\ProductInputModal.cs",
+              "RelativeDocumentMoniker": "Models_product\u002Badmin\\ProductInputModal.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\ProductInputModal.cs",
+              "RelativeToolTip": "Models_product\u002Badmin\\ProductInputModal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Models_product\u002Badmin\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\ProductDTO.cs",
+              "RelativeToolTip": "Models_product\u002Badmin\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\Product.cs",
+              "RelativeDocumentMoniker": "Models_product\u002Badmin\\Product.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\Product.cs",
+              "RelativeToolTip": "Models_product\u002Badmin\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA8wAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:30.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyCrud.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Repository\\MyCrud.cs",
+              "RelativeDocumentMoniker": "Repository\\MyCrud.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Repository\\MyCrud.cs",
+              "RelativeToolTip": "Repository\\MyCrud.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:31.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\Order.cs",
+              "RelativeDocumentMoniker": "Models_product\u002Badmin\\Order.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\Order.cs",
+              "RelativeToolTip": "Models_product\u002Badmin\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\User.cs",
+              "RelativeDocumentMoniker": "Models_product\u002Badmin\\User.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Models_product\u002Badmin\\User.cs",
+              "RelativeToolTip": "Models_product\u002Badmin\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Seeding\\UserSeeding.cs",
+              "RelativeDocumentMoniker": "Seeding\\UserSeeding.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Seeding\\UserSeeding.cs",
+              "RelativeToolTip": "Seeding\\UserSeeding.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:30.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserRoleSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Seeding\\UserRoleSeeding.cs",
+              "RelativeDocumentMoniker": "Seeding\\UserRoleSeeding.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Seeding\\UserRoleSeeding.cs",
+              "RelativeToolTip": "Seeding\\UserRoleSeeding.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:30.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoleSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Seeding\\RoleSeeding.cs",
+              "RelativeDocumentMoniker": "Seeding\\RoleSeeding.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Seeding\\RoleSeeding.cs",
+              "RelativeToolTip": "Seeding\\RoleSeeding.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:30.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IMyCrud.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Data\\Interfaces\\IMyCrud.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IMyCrud.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Data\\Interfaces\\IMyCrud.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IMyCrud.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA9wBEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20231208110146_nine.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208110146_nine.cs",
+              "RelativeDocumentMoniker": "Migrations\\20231208110146_nine.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208110146_nine.cs",
+              "RelativeToolTip": "Migrations\\20231208110146_nine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20231208105303_eight.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208105303_eight.cs",
+              "RelativeDocumentMoniker": "Migrations\\20231208105303_eight.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208105303_eight.cs",
+              "RelativeToolTip": "Migrations\\20231208105303_eight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20231208104300_seven.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208104300_seven.cs",
+              "RelativeDocumentMoniker": "Migrations\\20231208104300_seven.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208104300_seven.cs",
+              "RelativeToolTip": "Migrations\\20231208104300_seven.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20231208072019_first.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208072019_first.cs",
+              "RelativeDocumentMoniker": "Migrations\\20231208072019_first.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208072019_first.cs",
+              "RelativeToolTip": "Migrations\\20231208072019_first.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:34.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20231208075919_sixth.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208075919_sixth.cs",
+              "RelativeDocumentMoniker": "Migrations\\20231208075919_sixth.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208075919_sixth.cs",
+              "RelativeToolTip": "Migrations\\20231208075919_sixth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:35.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20231208074644_fifth.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208074644_fifth.cs",
+              "RelativeDocumentMoniker": "Migrations\\20231208074644_fifth.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208074644_fifth.cs",
+              "RelativeToolTip": "Migrations\\20231208074644_fifth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:35.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20231208074508_fourth.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208074508_fourth.cs",
+              "RelativeDocumentMoniker": "Migrations\\20231208074508_fourth.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208074508_fourth.cs",
+              "RelativeToolTip": "Migrations\\20231208074508_fourth.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA4wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:35.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20231208072832_second.cs",
+              "DocumentMoniker": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208072832_second.cs",
+              "RelativeDocumentMoniker": "Migrations\\20231208072832_second.cs",
+              "ToolTip": "C:\\Users\\akshit.kapoor\\Downloads\\Email\\Email\\Shopping_cart_api\\Migrations\\20231208072832_second.cs",
+              "RelativeToolTip": "Migrations\\20231208072832_second.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:35.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

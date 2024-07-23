@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <!--<img style="background:black;" src="https://storage.googleapis.com/zopsmart-uploads/originals/20200729/apnidukan%281%29-20200729-062205.png" /><br /><br />-->
+    <div style="border-top:3px solid #61028D">&nbsp;</div>
+    <span style="font-family:Arial; font-size:10pt">
+        Hello <b>{{UserName}}</b>,<br /><br />
+        {UserId}
+        This email is sent to you to varify your email.<br /><br />
+        <!--<a style="color:#61028D" href="{{Url}}">{{Title}}</a><br />-->
+        <!-- Update the URL with the actual route and parameters -->
+        <a style="color:#61028D" href="https://localhost:7008/api/Account/ConfirmEmail?uid={{UserId}}&token={{Token}}">Click here</a><br />
+        <br /><br />
+
+        <br /><br />
+        Thanks<br />
+        Store App
+    </span>
+</body>
+</html>
